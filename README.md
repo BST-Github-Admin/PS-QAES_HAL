@@ -1,6 +1,7 @@
 # BSX4-HAL-4.1NoFusion
 Bosch BoschSensor BSX4 HAL 4.1 no fusion
 
+```c
 /*!
  * @section LICENSE
  *
@@ -90,3 +91,4 @@ Bosch BoschSensor BSX4 HAL 4.1 no fusion
  * @detail
  *
  */
+```
